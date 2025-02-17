@@ -1,0 +1,41 @@
+body
+{
+    background-color: #1B3428;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.container
+{
+    height: 80%;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+.a 
+{
+    height: 400px;
+    width:300px;
+    margin: 30px;
+    padding: 0 20px;
+    font-size: 20pt;
+}
+
+.first
+{
+    background-color: aquamarine;
+}
+.second
+{
+    background-color: lightcoral;
+}
+.third
+{
+    background-color:gray;
+}
